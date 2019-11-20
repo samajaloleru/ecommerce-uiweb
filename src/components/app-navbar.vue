@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg bg-primary fixed-top navbar-transparent" color-on-scroll="300">
+  <nav class="navbar navbar-expand-lg bg-primary fixed-top navbar-transparent" color-on-scroll="100">
     <div class="container">
       <div class="navbar-translate">
         <a class="navbar-brand" href="" rel="tooltip" title="" data-placement="bottom" target="_blank">
@@ -14,16 +14,16 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <router-link  class="nav-link" to="/"> Home</router-link>
+            <router-link  class="nav-link text-dark font-weight-bold" style="font-size:15px" to="/"> Home</router-link>
           </li>
           <li class="nav-item">
-            <router-link  class="nav-link" to="/about"> About Us</router-link>
+            <router-link  class="nav-link text-dark font-weight-bold" style="font-size:15px" to="/about"> About Us</router-link>
           </li>
           <li class="nav-item">
-            <router-link  class="nav-link" to="/success">Success Stories</router-link>
+            <router-link  class="nav-link text-dark font-weight-bold" style="font-size:15px" to="/success">Success Stories</router-link>
           </li>
           <li class="nav-item">
-            <router-link  class="nav-link" to="/contact">Contact Us</router-link>
+            <router-link  class="nav-link text-dark font-weight-bold" style="font-size:15px" to="/contact">Contact Us</router-link>
           </li>
         </ul>
       </div>
