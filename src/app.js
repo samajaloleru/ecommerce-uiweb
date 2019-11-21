@@ -7,7 +7,7 @@ window.$ = require('jquery')
 
 import 'bootstrap';
 
-require("@/assets/js/now-ui-kit.js")
+require("@/assets/js/blk-design-system-pro.mine209.js")
 
 new Vue ({
   el: "#app",

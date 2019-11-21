@@ -11,7 +11,7 @@
 				<div class="carousel-inner">
 					<div class="carousel-item active">
 						<div class="page-header header-filter">
-							<div class="page-header-image" :style="{backgroundImage:'url('+require('@/assets/img/bg20.jpg')+')'}"></div>
+							<div class="page-header-image" :style="{backgroundImage:'url('+require('@/assets/img/bg8.jpg')+')'}"></div>
 							<div class="content-center">
 								<div class="container">
 									<div class="content-center">
@@ -45,7 +45,7 @@
 
 					<div class="carousel-item">
 						<div class="page-header header-filter">
-							<div class="page-header-image" :style="{backgroundImage:'url('+require('@/assets/img/bg15.jpg')+')'}"></div>
+							<div class="page-header-image" :style="{backgroundImage:'url('+require('@/assets/img/bg7.jpg')+')'}"></div>
 							<div class="content-center">
 								<div class="container">
 									<div class="content-center">
@@ -79,7 +79,7 @@
 					
 					<div class="carousel-item">
 						<div class="page-header header-filter">
-							<div class="page-header-image" :style="{backgroundImage:'url('+require('@/assets/img/bg17.jpg')+')'}"></div>
+							<div class="page-header-image" :style="{backgroundImage:'url('+require('@/assets/img/bg4.jpg')+')'}"></div>
 							<div class="content-center">
 								<div class="container">
 									<div class="content-center">
@@ -171,7 +171,7 @@
 			</div>
 		</div>
 
-		<div class="features-2 section-image" :style="{backgroundImage:'url('+require('@/assets/img/bg22.jpg')+')'}">
+		<div class="features-2 section-image" :style="{backgroundImage:'url('+require('@/assets/img/bg7.jpg')+')'}">
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-md-8 mr-auto ml-auto">

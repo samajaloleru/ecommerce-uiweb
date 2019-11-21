@@ -3,7 +3,7 @@
     <div class="container">
       <div class="navbar-translate">
         <a class="navbar-brand" href="" rel="tooltip" title="" data-placement="bottom" target="_blank">
-          <img class="img " src="@/assets/img/logo.png" />
+          <img class="img " src="@/assets/img/slack.png" />
         </a>
         <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-bar bar1"></span>

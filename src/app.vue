@@ -13,6 +13,6 @@
 
 <!-- App specific stylings  -->
 <style media="screen">
-  @import "assets/css/bootstrap.min.css";
-  @import "assets/css/now-ui-kit.css";
+  @import "assets/css/blk-design-system-pro.mine209.css";
+  @import "assets/css/demo/demo.css";
 </style>

@@ -16,7 +16,7 @@
                 <div class="media mt-3">
                   <a class="pull-left">
                     <div class="avatar">
-                      <img class="media-object " src="@/assets/img/denise.jpg" alt="..." />
+                      <img class="media-object " src="@/assets/img/marie.jpg" alt="..." />
                     </div>
                   </a>
                   <div class="media-body">
@@ -32,7 +32,7 @@
                 <div class="media mt-3">
                   <a class="pull-left">
                     <div class="avatar">
-                      <img class="media-object img-raised" src="@/assets/img/aaron.jpg" alt="..." />
+                      <img class="media-object img-raised" src="@/assets/img/marie.jpg" alt="..." />
                     </div>
                   </a>
                   <div class="media-body">
@@ -48,7 +48,7 @@
                 <div class="media mt-3">
                   <a class="pull-left">
                     <div class="avatar">
-                      <img class="media-object img-raised" src="@/assets/img/keisha.jpeg" alt="..." />
+                      <img class="media-object img-raised" src="@/assets/img/mike-2.jpg" alt="..." />
                     </div>
                   </a>
                   <div class="media-body">
@@ -65,7 +65,7 @@
                 <div class="media mt-3">
                   <a class="pull-left">
                     <div class="avatar">
-                      <img class="media-object img-raised" src="@/assets/img/karen.jpeg" alt="..." />
+                      <img class="media-object img-raised" src="@/assets/img/marie.jpg" alt="..." />
                     </div>
                   </a>
                   <div class="media-body">
@@ -79,7 +79,7 @@
                 <div class="media mt-3">
                   <a class="pull-left">
                     <div class="avatar">
-                      <img class="media-object img-raised" src="@/assets/img/lisa.jpg" alt="..." />
+                      <img class="media-object img-raised" src="@/assets/img/marie.jpg" alt="..." />
                     </div>
                   </a>
                   <div class="media-body">
@@ -94,7 +94,7 @@
                 <div class="media mt-3">
                   <a class="pull-left">
                     <div class="avatar">
-                      <img class="media-object img-raised" src="@/assets/img/naomi.jpg" alt="..." />
+                      <img class="media-object img-raised" src="@/assets/img/marie.jpg" alt="..." />
                     </div>
                   </a>
                   <div class="media-body">
